@@ -2,4 +2,4 @@ print("hello world")
 
 
 def welcome():
-  print("welcome to india")
+    print("welcome to india")
